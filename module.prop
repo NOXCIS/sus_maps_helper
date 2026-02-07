@@ -1,0 +1,6 @@
+id=sus_maps_helper
+name=SUS Maps Helper - Mi Mix 4
+version=v1.0.0
+versionCode=1
+author=NOXCIS
+description=Maintains custom ksu_susfs binary with SUS_MAP (bit 15) support for SUSFS v1.5.5 on non-GKI kernels. Automatically re-applies the patched binary on every boot to survive susfs4ksu module updates.
